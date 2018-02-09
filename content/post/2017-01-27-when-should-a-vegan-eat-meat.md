@@ -1,6 +1,6 @@
 +++
 
-title = When Should a Vegan eat Meat?
+title = "When Should a Vegan eat Meat?"
 date = 018-02-09T14:59:09-05:01
 draft = false
 
