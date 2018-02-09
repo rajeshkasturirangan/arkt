@@ -1,21 +1,7 @@
 +++
-author: rkasturi
-categories:
-- Uncategorized
-date: 2017-01-27T01:28:18Z
-guid: http://localhost:8080/wordpress/2017/01/27/when-should-a-vegan-eat-meat/
-id: 270
-restapi_import_id:
-- 59f35e28c2364
-tags:
-- Ethics
-- Food
-- Jallikattu
-- Thought Experiment
-- Vegan
-title: When Should a Vegan eat Meat?
-url: /2017/01/27/when-should-a-vegan-eat-meat/
 
+title = When Should a Vegan eat Meat?
+date = 018-02-09T14:59:09-05:00
 draft = false
 
 # Tags and categories
