@@ -1,7 +1,6 @@
 +++
-
-title = "When Should a Vegan eat Meat?"
-date = 018-02-09T14:59:09-05:01
+title = "Second  Post"
+date = 2018-02-09T16:07:27-05:00
 draft = false
 
 # Tags and categories
@@ -18,6 +17,7 @@ categories = []
 image = ""
 caption = ""
 preview = true
+
 +++
 
-A Second post
+A Second Post
