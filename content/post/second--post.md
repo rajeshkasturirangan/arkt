@@ -95,3 +95,5 @@ A final kink before I sign off: what if the labacon was human meat? In other wor
 > What if I took one of my skin cells and cultured it to taste like labacon, would I eat my own meat?
 
 When posed this way, I find my gut and my head going in opposite directions. The thought of eating human meat, however cultured, is deeply disturbing. On the other hand, what could be more morally clean than taking my own flesh — over which we can all agree I have maximal authority — culturing it and then consuming it? It’s the closest I’ll get to being a plant without photosynthesis.
+
+Let me end this with an equation: $e=mc^2$
